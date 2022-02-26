@@ -1,4 +1,4 @@
-### Hi there 👋
+### 선제 👋
 
 <!--
 **leeseonseonje/leeseonseonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
