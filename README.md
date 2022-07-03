@@ -1,4 +1,4 @@
-### [선제 👋](https://velog.io/@leeseonseonje)
+### [선제 👋](https://velog.io/@leeseonseonje) (블로그)
 
 <!--
 **leeseonseonje/leeseonseonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
