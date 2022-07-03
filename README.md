@@ -1,4 +1,4 @@
-### 선제 👋
+### [선제 👋](https://velog.io/@leeseonseonje)
 
 <!--
 **leeseonseonje/leeseonseonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![leeseonseonje's github stats](https://github-readme-stats.vercel.app/api?username=leeseonseonje&show_icons=true&theme=prussian)
 
-### [블로그](https://velog.io/@leeseonseonje)
