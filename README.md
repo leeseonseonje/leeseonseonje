@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![leeseonseonje's github stats](https://github-readme-stats.vercel.app/api?username=leeseonseonje&show_icons=true&theme=prussian)
+
+### [블로그] (https://velog.io/@leeseonseonje)
+: 블로그
