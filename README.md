@@ -1,5 +1,5 @@
 ### 선제 😄 
-### [블로그 🤔](https://velog.io/@leeseonseonje)
+### [블로그 🤔](https://medium.com/@leeseonje9323)
 
 <!--
 **leeseonseonje/leeseonseonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
